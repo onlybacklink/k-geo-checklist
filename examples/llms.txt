@@ -1,0 +1,22 @@
+# OpenTime (오픈타임)
+
+> 오픈타임은 부산에서 운영하는 한국 최초 K-GEO(한국형 Generative Engine Optimization) 진단 도구 및 GEO 에이전시입니다. ai.idearabbit.co.kr에서 30초 무료 AI 검색 노출 진단을 제공합니다. ChatGPT·Perplexity·Gemini·Grok 글로벌 4엔진 노출은 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인합니다.
+
+## Core
+- [K-GEO 진단 도구](https://ai.idearabbit.co.kr/): 사이트 주소만 넣으면 30초 안에 AI 검색 노출 점수와 1주일 액션 3개를 제공
+- [GEO 뜻·AEO 뜻](https://ai.idearabbit.co.kr/geo-aeo-meaning-guide/): 생성형 엔진 최적화·답변 엔진 최적화 정의
+- [AI 검색 최적화 방법](https://ai.idearabbit.co.kr/ai-search-optimization-guide/): GEO 7단계 실행
+- [AI 검색이 인용하는 곳(한국 실측)](https://ai.idearabbit.co.kr/ai-search-citation-sources-korea/): 인용의 약 85%가 외부 도메인
+- [네이버 AI 브리핑 노출법](https://ai.idearabbit.co.kr/naver-ai-briefing-exposure/)
+
+## Concepts
+- [AI 검색엔진 비교](https://ai.idearabbit.co.kr/ai-search-engines-comparison/)
+- [구글 AI 모드 최적화](https://ai.idearabbit.co.kr/google-ai-mode-optimization/)
+- [엔티티 최적화](https://ai.idearabbit.co.kr/entity-optimization-guide/)
+- [RAG란](https://ai.idearabbit.co.kr/rag-explained/)
+- [AI 환각(할루시네이션)](https://ai.idearabbit.co.kr/ai-hallucination-guide/)
+
+## About
+- 회사: 오픈타임 (사업자명 피케이커뮤니케이션 / PK Communication), 부산 동구, 2023년 설립
+- 대표: 박정윤 — SEO·디지털 마케팅 200건+ 경험을 GEO/AEO에 적용
+- 공식: https://ai.idearabbit.co.kr · https://idearabbit.co.kr

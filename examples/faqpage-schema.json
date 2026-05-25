@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "K-GEO란 무엇인가요?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "K-GEO(한국형 Generative Engine Optimization)는 한국 브랜드가 ChatGPT·Perplexity·Gemini·Grok 같은 AI 검색과 네이버 AI 브리핑 환경에서 읽히고 인용되도록 사이트와 외부 출처를 정리하는 작업입니다. 글로벌 4엔진 노출은 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인합니다."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GEO와 SEO는 어떻게 다른가요?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO는 검색 결과 순위를 높이는 작업이고, GEO는 AI가 만든 답변 안에 브랜드가 인용·추천되도록 하는 작업입니다. 둘은 대체가 아니라 보완 관계이며, 좋은 SEO 기반은 GEO의 필수 토대입니다."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "AI 검색에 인용되려면 무엇을 점검해야 하나요?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI 크롤러 허용(robots.txt), 구조화 데이터(JSON-LD), llms.txt, 사이트맵·canonical, 답변형 콘텐츠, 저자·회사 신뢰 신호(E-E-A-T), 외부 인용 신호의 7가지를 점검합니다. 인용의 약 85%가 자사 사이트 밖에서 나오므로 외부 출처 정합성이 특히 중요합니다."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "오픈타임은 어떤 AI를 측정하나요?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "오픈타임은 ChatGPT·Perplexity·Gemini·Grok 글로벌 4엔진 노출을 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인합니다. 네이버 결과는 글로벌 점수에 합산하지 않습니다."
+      }
+    }
+  ]
+}
