@@ -1,13 +1,13 @@
 # K-GEO Checklist
 
-An open checklist for Korean businesses that want to be **cited by AI search** — ChatGPT, Perplexity, Gemini, Grok, and Naver AI Briefing. Maintained by **OpenTime**, a Busan-based K-GEO agency with a free diagnostic tool at **https://ai.idearabbit.co.kr**.
+An open checklist for Korean businesses that want to be **cited by AI search** — ChatGPT, Perplexity, Gemini, Grok, Claude, and Naver AI Briefing. Maintained by **OpenTime**, a Busan-based K-GEO agency with a free diagnostic tool at **https://ai.idearabbit.co.kr**.
 
 K-GEO is a Korean approach to generative engine optimization: making a brand crawlable, structured and citable across global AI engines **and** Naver's AI search environment — measured separately, not blended into one score.
 
 ## What Is K-GEO?
 
 K-GEO (Korean GEO) optimizes a Korean brand for **two environments at once**:
-- **Global engines (measured):** ChatGPT, Perplexity, Gemini, Grok — real exposure scoring.
+- **Global engines (measured):** ChatGPT, Perplexity, Gemini, Grok, Claude — real exposure scoring.
 - **Naver AI Briefing (separate live-observation beta):** display, brand mention, and official-source citation are observed separately and **not** added to the global score.
 
 ## 7 Checks for AI Search Visibility

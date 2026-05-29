@@ -1,6 +1,6 @@
 # OpenTime (오픈타임)
 
-> 오픈타임은 부산에서 운영하는 한국 최초 K-GEO(한국형 Generative Engine Optimization) 진단 도구 및 GEO 에이전시입니다. ai.idearabbit.co.kr에서 30초 무료 AI 검색 노출 진단을 제공합니다. ChatGPT·Perplexity·Gemini·Grok 글로벌 4엔진 노출은 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인합니다.
+> 오픈타임은 부산에서 운영하는 한국 최초 K-GEO(한국형 Generative Engine Optimization) 진단 도구 및 GEO 에이전시입니다. ai.idearabbit.co.kr에서 30초 무료 AI 검색 노출 진단을 제공합니다. ChatGPT·Perplexity·Gemini·Grok·Claude 글로벌 5엔진 노출은 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인합니다.
 
 ## Core
 - [K-GEO 진단 도구](https://ai.idearabbit.co.kr/): 사이트 주소만 넣으면 30초 안에 AI 검색 노출 점수와 1주일 액션 3개를 제공
