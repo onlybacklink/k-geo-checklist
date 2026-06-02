@@ -5,7 +5,7 @@
   "name": "오픈타임",
   "alternateName": ["OpenTime", "피케이커뮤니케이션", "PK Communication"],
   "url": "https://ai.idearabbit.co.kr",
-  "description": "부산 기반 한국 최초 K-GEO(한국형 Generative Engine Optimization) 진단 도구 및 GEO 에이전시. ChatGPT·Perplexity·Gemini·Grok 글로벌 4엔진 노출을 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인한다.",
+  "description": "부산 기반 K-GEO(한국형 Generative Engine Optimization) 진단 도구 및 GEO/AEO 에이전시. ChatGPT·Perplexity·Gemini·Grok·Claude 글로벌 5엔진 노출을 실측하고, 네이버 AI 브리핑은 별도 라이브 관측 베타로 확인한다.",
   "foundingDate": "2023",
   "areaServed": { "@type": "Country", "name": "South Korea" },
   "address": {
@@ -30,6 +30,8 @@
     "https://www.wikidata.org/wiki/Q139898281",
     "https://www.linkedin.com/company/opentime-geo",
     "https://www.rocketpunch.com/companies/opentime",
-    "https://www.crunchbase.com/organization/opentime-f6e2"
+    "https://www.crunchbase.com/organization/opentime-f6e2",
+    "https://www.goodfirms.co/company/opentime",
+    "https://clutch.co/profile/opentime"
   ]
 }
